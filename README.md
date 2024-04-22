@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)
+![](https://raw.githubusercontent.com/alhelwany/alhelwany/main/Hello%20You.png)
 
 # 💫 About Me:
 Web dev by day 🧑‍💻, chess enthusiast by night ♟️<br>Building websites that don't suck 🤞<br>Always up for a challenge, except maybe closing vim 🙅‍♂️<br>
