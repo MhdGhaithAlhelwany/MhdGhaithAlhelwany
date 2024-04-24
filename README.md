@@ -11,8 +11,7 @@ Web dev by day 🧑‍💻, chess enthusiast by night ♟️<br>Building website
 
 # ☕ Repos I Contributed to: 
 [Laravel Model Status](https://github.com/spatie/laravel-model-status/commits/main/?author=alhelwany)\
-[Mentor Match](https://github.com/Software-Developer-Academy/mentor-match/commits/main/?author=alhelwany)\
-[Hackgreenville](https://github.com/hackgvl/hackgreenville-com/commits/develop/?author=alhelwany)
+[Mentor Match](https://github.com/Software-Developer-Academy/mentor-match/commits/main/?author=alhelwany)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alhelwany&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&card_width=1000)<br/>
